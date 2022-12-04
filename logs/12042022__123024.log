@@ -1,0 +1,9 @@
+[2022-12-04 12:30:24,562] 8 root -INFO -Reading from database:apsand collection:sensor
+[2022-12-04 12:30:27,993] 10 root -INFO -found columns:Index(['_id', 'class', 'aa_000', 'ab_000', 'ac_000', 'ad_000', 'ae_000',
+       'af_000', 'ag_000', 'ag_001',
+       ...
+       'ee_002', 'ee_003', 'ee_004', 'ee_005', 'ee_006', 'ee_007', 'ee_008',
+       'ee_009', 'ef_000', 'eg_000'],
+      dtype='object', length=172)
+[2022-12-04 12:30:27,994] 12 root -INFO -droping column:_id
+[2022-12-04 12:30:28,197] 14 root -INFO -rows and columns (36188, 171)
